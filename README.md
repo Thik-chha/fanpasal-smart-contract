@@ -1,2 +1,2 @@
-# fanpasal-smart-contract
-smart contract for the verification of item qr code in fan pasal
+# FanPasal smart contract
+This is the repo for storing the code of the smart contract being used by Fan Pasal for merchandise verification
